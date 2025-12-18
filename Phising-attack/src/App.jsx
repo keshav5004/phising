@@ -22,8 +22,8 @@ function App() {
         {/* ================= NAVBAR ================= */}
         <nav className="flex items-center justify-between px-10 py-4 border-b border-white/10">
           {/* Left */}
-          <h1 className="text-xl font-bold text-cyan-400">
-            Phishing Detection Website
+          <h1 className="text-2xl font-bold text-cyan-400">
+            WEBSHIELD
           </h1>
 
           {/* Right */}
